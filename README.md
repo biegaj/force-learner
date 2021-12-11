@@ -16,6 +16,6 @@ You must define what word you want and what value it has. For example, 'bonjour:
 "What does 'bonjour' mean" to where the end user must input 'hello' \
 
 ### settings
-![Example of it in action](images/settings.png)
+![Example of it in action](images/settings.PNG)
 \
 As of version 1, you may change the time between pop-ups. You may also have a 15 second warning where 15 seconds prior to the popup, a messagebox will appear warning you.
