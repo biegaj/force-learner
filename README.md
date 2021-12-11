@@ -7,7 +7,8 @@ I have been asked by my french teacher to create an application to force me to l
 \
 
 ### how it works
-This appliation forces you to write down the meanings of words which are defined in a **wordlist**. By default, it will refer to the wordlist on this repository (https://github.com/biegaj/force-learner/blob/main/wordlist.txt). /
+This appliation forces you to write down the meanings of words which are defined in a **wordlist**. By default, it will refer to the wordlist on this repository (https://github.com/biegaj/force-learner/blob/main/wordlist.txt). 
+/
 It will loop through every line of the word list and sort words into keys and values, which will then be displayed on the master form /
 /
 You may edit this to your own repository to implement your own words. It will loop around words randomly, but in future version I will add recognitions for repeated words. This project took approx. 2 hours so there will be bugs.
