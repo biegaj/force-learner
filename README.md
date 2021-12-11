@@ -1,4 +1,5 @@
 # Force-learner
+![Example of it in action](images/inuse.PNG)
 
 ### version 2
 An feature-packed updated version will be released as soon as i have more time <3 
@@ -22,6 +23,3 @@ Key: Value
 You must define what word you want and what value it has. For example, 'bonjour: hello' will be seen as:\
 "What does 'bonjour' mean" to where the end user must input 'hello' 
 
-### application
-![Example of it in action](images/inuse.PNG)
-![Example of it in action](images/settings.PNG)
