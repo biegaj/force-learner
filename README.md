@@ -8,7 +8,6 @@ a feature-packed updated version will be released as soon as i have more time <3
 I have been asked by my french teacher to create an application to force me to learn french words, and here it is! It is a very compact file which when run, will be hard to stop. Therefore, make sure you're learning well. To deactivate this program, open task manager and locate 'force-learner'. I have opted out of making this deactivatable for the sole reason of me being cheeky enough to deactivate it if i cannot feel like doing my french work.\
 \
 ![Example of it in action](images/example.gif)
-\
 
 ### how it works
 This appliation forces you to write down the meanings of words which are defined in a **wordlist**. By default, it will refer to the wordlist on this repository (https://github.com/biegaj/force-learner/blob/main/wordlist.txt). 
