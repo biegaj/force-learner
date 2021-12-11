@@ -15,7 +15,7 @@ This appliation forces you to write down the meanings of words which are defined
 It will loop through every line of the wordlist and sort words into keys and values, which will then be displayed on the master form
 \
 \
-You may edit this to your own repository to implement your own words. It will loop around words randomly, but in future version I will add recognitions for repeated words. This project took approx. 2 hours so there will be bugs.
+You may edit this to your own repository to implement your own words. It will loop around words randomly, but in a future version I will add recognitions for repeated words. This project took approx. 2 hours so there will be bugs.
 ```
 Key: Value 
 ``` 
