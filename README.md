@@ -1,7 +1,7 @@
 # Force-learner
 ![Example of it in action](images/inuse.PNG)
 
-### version 2
+### note
 An feature-packed updated version will be released as soon as i have more time <3 
 
 ### Force learner is a way to force you to learn
