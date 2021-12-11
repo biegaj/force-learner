@@ -19,3 +19,6 @@ You must define what word you want and what value it has. For example, 'bonjour:
 ![Example of it in action](images/settings.PNG)
 \
 As of version 1, you may change the time between pop-ups. You may also have a 15 second warning where 15 seconds prior to the popup, a messagebox will appear warning you.
+
+### version 2
+An feature-packed updated version will be released as soon as i have more time <3
